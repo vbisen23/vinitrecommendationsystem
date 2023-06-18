@@ -1,2 +1,0 @@
-# vinitrecommendationsystem
-recommendation system
